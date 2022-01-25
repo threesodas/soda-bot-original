@@ -1,0 +1,12 @@
+{
+  "version": "0.6.0",
+  "developer": "threesodas",
+  "language": "javascript",
+  "module": "discord.js",
+  "module_version": "v13.0.0",
+  "module_via": "@dev",
+  "build_date": "03.08.2021",
+  "host": "replit",
+  "node.js": "True",
+  "development_version": "0.9.0"
+}

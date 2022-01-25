@@ -1,0 +1,27 @@
+{
+  "name": "sodabot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aero/centra": "^1.0.6",
+    "balls": "^1.0.1",
+    "cheerio": "^1.0.0-rc.10",
+    "common-tags": "^1.8.0",
+    "discord.js": "^13.2.0",
+    "express": "^4.17.1",
+    "namemc": "^1.8.16",
+    "node-fetch": "^2.6.1",
+    "novelcovid": "^3.0.2"
+  },
+  "devDependencies": {
+    "node": "^16.10.0"
+  },
+  "description": ""
+}
